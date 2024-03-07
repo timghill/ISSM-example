@@ -2,7 +2,7 @@
 addpath('../00_synth_forcing/')
 set_paths;
 
-cases = [1, 2, 3, 4, 5];
+cases = [1, 2, 3];
 
 case_names = {'Turbulent 5/4', 'Turbulent 3/2', 'Laminar',...
     'Transition 5/4', 'Transition 3/2'};

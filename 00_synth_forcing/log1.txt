@@ -827,9 +827,9 @@ iteration 365/365  time [yr]: 1.00 (time step: 0.00)
    saving temporary results
 write lock file:
 
-   FemModel initialization elapsed time:   0.0372071
-   Total Core solution elapsed time:       39.5373
-   Linear solver elapsed time:             7.47529 (19%)
+   FemModel initialization elapsed time:   0.040714
+   Total Core solution elapsed time:       39.8971
+   Linear solver elapsed time:             7.50506 (19%)
 
    Total elapsed time: 0 hrs 0 min 39 sec
 [?1h=loading results from cluster
