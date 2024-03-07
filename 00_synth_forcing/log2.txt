@@ -1,0 +1,176 @@
+[?1h=
+                                                < M A T L A B (R) >
+                                      Copyright 1984-2022 The MathWorks, Inc.
+                                 R2022b Update 5 (9.13.0.2193358) 64-bit (glnxa64)
+                                                 February 10, 2023
+
+Warning: X does not support locale en_CA.UTF-8
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Parameterize
+Hydrology
+solving
+checking model consistency
+marshalling file Case_3.bin
+[?1h=uploading input file and queuing script
+[?1h=[?1h=launching solution sequence on remote cluster
+
+Ice-sheet and Sea-level System Model (ISSM) version  4.22
+(website: http://issm.jpl.nasa.gov contact: issm@jpl.nasa.gov)
+
+call computational core:
+iteration 1/365  time [yr]: 0.00 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 2/365  time [yr]: 0.01 (time step: 0.00)
+   updating effective pressure
+iteration 3/365  time [yr]: 0.01 (time step: 0.00)
+   updating effective pressure
+iteration 4/365  time [yr]: 0.01 (time step: 0.00)
+   updating effective pressure
+iteration 5/365  time [yr]: 0.01 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 6/365  time [yr]: 0.02 (time step: 0.00)
+   updating effective pressure
+iteration 7/365  time [yr]: 0.02 (time step: 0.00)
+   updating effective pressure
+iteration 8/365  time [yr]: 0.02 (time step: 0.00)
+   updating effective pressure
+iteration 9/365  time [yr]: 0.02 (time step: 0.00)
+   updating effective pressure
+iteration 10/365  time [yr]: 0.03 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 11/365  time [yr]: 0.03 (time step: 0.00)
+   updating effective pressure
+iteration 12/365  time [yr]: 0.03 (time step: 0.00)
+   updating effective pressure
+iteration 13/365  time [yr]: 0.04 (time step: 0.00)
+   updating effective pressure
+iteration 14/365  time [yr]: 0.04 (time step: 0.00)
+   updating effective pressure
+iteration 15/365  time [yr]: 0.04 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 16/365  time [yr]: 0.04 (time step: 0.00)
+   updating effective pressure
+iteration 17/365  time [yr]: 0.05 (time step: 0.00)
+   updating effective pressure
+iteration 18/365  time [yr]: 0.05 (time step: 0.00)
+   updating effective pressure
+iteration 19/365  time [yr]: 0.05 (time step: 0.00)
+   updating effective pressure
+iteration 20/365  time [yr]: 0.05 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 21/365  time [yr]: 0.06 (time step: 0.00)
+   updating effective pressure
+iteration 22/365  time [yr]: 0.06 (time step: 0.00)
+   updating effective pressure
+iteration 23/365  time [yr]: 0.06 (time step: 0.00)
+   updating effective pressure
+iteration 24/365  time [yr]: 0.07 (time step: 0.00)
+   updating effective pressure
+iteration 25/365  time [yr]: 0.07 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 26/365  time [yr]: 0.07 (time step: 0.00)
+   updating effective pressure
+iteration 27/365  time [yr]: 0.07 (time step: 0.00)
+   updating effective pressure
+iteration 28/365  time [yr]: 0.08 (time step: 0.00)
+   updating effective pressure
+iteration 29/365  time [yr]: 0.08 (time step: 0.00)
+   updating effective pressure
+iteration 30/365  time [yr]: 0.08 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 31/365  time [yr]: 0.08 (time step: 0.00)
+   updating effective pressure
+iteration 32/365  time [yr]: 0.09 (time step: 0.00)
+   updating effective pressure
+iteration 33/365  time [yr]: 0.09 (time step: 0.00)
+   updating effective pressure
+iteration 34/365  time [yr]: 0.09 (time step: 0.00)
+   updating effective pressure
+iteration 35/365  time [yr]: 0.10 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 36/365  time [yr]: 0.10 (time step: 0.00)
+   updating effective pressure
+iteration 37/365  time [yr]: 0.10 (time step: 0.00)
+   updating effective pressure
+iteration 38/365  time [yr]: 0.10 (time step: 0.00)
+   updating effective pressure
+iteration 39/365  time [yr]: 0.11 (time step: 0.00)
+   updating effective pressure
+iteration 40/365  time [yr]: 0.11 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 41/365  time [yr]: 0.11 (time step: 0.00)
+   updating effective pressure
+iteration 42/365  time [yr]: 0.12 (time step: 0.00)
+   updating effective pressure
+iteration 43/365  time [yr]: 0.12 (time step: 0.00)
+   updating effective pressure
+iteration 44/365  time [yr]: 0.12 (time step: 0.00)
+   updating effective pressure
+iteration 45/365  time [yr]: 0.12 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 46/365  time [yr]: 0.13 (time step: 0.00)
+   updating effective pressure
+iteration 47/365  time [yr]: 0.13 (time step: 0.00)
+   updating effective pressure
+iteration 48/365  time [yr]: 0.13 (time step: 0.00)
+   updating effective pressure
+iteration 49/365  time [yr]: 0.13 (time step: 0.00)
+   updating effective pressure
+iteration 50/365  time [yr]: 0.14 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 51/365  time [yr]: 0.14 (time step: 0.00)
+   updating effective pressure
+iteration 52/365  time [yr]: 0.14 (time step: 0.00)
+   updating effective pressure
+iteration 53/365  time [yr]: 0.15 (time step: 0.00)
+   updating effective pressure
+iteration 54/365  time [yr]: 0.15 (time step: 0.00)
+   updating effective pressure
+iteration 55/365  time [yr]: 0.15 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 56/365  time [yr]: 0.15 (time step: 0.00)
+   updating effective pressure
+iteration 57/365  time [yr]: 0.16 (time step: 0.00)
+   updating effective pressure
+iteration 58/365  time [yr]: 0.16 (time step: 0.00)
+   updating effective pressure
+iteration 59/365  time [yr]: 0.16 (time step: 0.00)
+   updating effective pressure
+iteration 60/365  time [yr]: 0.16 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 61/365  time [yr]: 0.17 (time step: 0.00)
+   updating effective pressure
+iteration 62/365  time [yr]: 0.17 (time step: 0.00)
+   updating effective pressure
+iteration 63/365  time [yr]: 0.17 (time step: 0.00)
+   updating effective pressure
+iteration 64/365  time [yr]: 0.18 (time step: 0.00)
+   updating effective pressure
+iteration 65/365  time [yr]: 0.18 (time step: 0.00)
+   updating effective pressure
+   saving temporary results
+iteration 66/365  time [yr]: 0.18 (time step: 0.00)
+   updating effective pressure
+iteration 67/365  time [yr]: 0.18 (time step: 0.00)
+   updating effective pressure
+iteration 68/365  time [yr]: 0.19 (time step: 0.00)
+   updating effective pressure
+iteration 69/365  time [yr]: 0.19 (time step: 0.00)
+   updating effective pressure
+iteration 70/365  time [yr]: 0.19 (time step: 0.00)
