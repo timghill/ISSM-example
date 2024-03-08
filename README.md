@@ -15,7 +15,7 @@ Case                | `sheet_alpha` | `sheet_beta` | `istransition` | `omega` | 
 1 (Turbulent 5/4)   |  5/4          | 3/2          | 0              | 0       | 0.0071
 2 (Turbulent 3/2)   |  3/2          | 3/2          | 0              | 0       | 0.0134
 3 (Laminar)         |  3            | 2            | 0              | 0       | 0.05
-1 (Transition 5/4)  |  5/4          | 2            | 1              | 1/2000  | 0.05
-1 (Transition 5/4)  |  3/2          | 2            | 1              | 1/2000  | 0.05
+4 (Transition 5/4)  |  5/4          | 2            | 1              | 1/2000  | 0.05
+5 (Transition 5/4)  |  3/2          | 2            | 1              | 1/2000  | 0.05
 
 Channel parameters do not vary between runs.
