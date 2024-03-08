@@ -4,9 +4,7 @@ A simple example of a suite of ISSM-GlaDS runs for each of the sheet-flow parame
 
 The GlaDS setup consists of a 100 km x 25 km synthetic ice-sheet margin with constant basal melt (0.05 m/year) and seasonally-varying inputs to 50 randomly positioned moulins. The model is run for two years to reach an approximate dynamic steady state. Each run should only take a few minutes.
 
-The script `00_synth_forcing/run_suite.sh` runs all five simulations based on the specification in `00_synth_forcing/table.dat`. You might have to change a few lines in the `run_suite.sh` script (e.g., pointing to your matlab executable), and this will only work on a linux system. Otherwise, you can run the lines in `table.dat` manually.
-
-There are a few basic plotting scripts in the `analysis/` folder.
+The script `synthetic/run_suite.m` runs all five simulations. There are a few basic plotting scripts in the `analysis/` folder.
 
 ## Sheet-flow parameterizations
 

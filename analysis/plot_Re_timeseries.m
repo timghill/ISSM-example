@@ -1,8 +1,8 @@
 % Plot suite of ISSM-GlaDS simulations
-addpath('../00_synth_forcing/')
+addpath('../synthetic/')
 set_paths;
 
-cases = [1, 2, 3];
+cases = [1, 2, 3, 4, 5];
 
 case_names = {'Turbulent 5/4', 'Turbulent 3/2', 'Laminar',...
     'Transition 5/4', 'Transition 3/2'};
@@ -10,7 +10,7 @@ case_names = {'Turbulent 5/4', 'Turbulent 3/2', 'Laminar',...
 figure;
 hold on
 for casenum=cases
-    issm_out = load(sprintf('../00_synth_forcing/RUN/output_%03d.mat', casenum));
+    issm_out = load(sprintf('../synthetic/RUN/output_%03d.mat', casenum));
     md = issm_out.md;
     tt = [md.results.TransientSolution.time];
     vx = [md.results.TransientSolution.HydrologyWaterVx];
